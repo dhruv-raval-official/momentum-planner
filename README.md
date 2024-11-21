@@ -15,12 +15,6 @@ Momentum Planner is a sleek and responsive web application designed to help user
 
 ---
 
-## 🚀 Live Demo
-
-Check out the live demo of the project: [Momentum Planner](https://momentumplanner.yourname.com)
-
----
-
 ## 🔧 Technologies Used
 
 - **Frontend**:
