@@ -28,7 +28,7 @@ Check out the live demo of the project: [Momentum Planner](https://momentumplann
   - CSS3 (Flexbox, Media Queries)
   - JavaScript (ES6+)
 - **APIs**:
-  - Fetch API for retrieving motivational quotes (https://quotes15.p.rapidapi.com)
+  - Fetch API for retrieving motivational quotes [API](https://quotes15.p.rapidapi.com)
 - **Storage**:
   - localStorage for persistent data management
 
